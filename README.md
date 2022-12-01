@@ -35,7 +35,7 @@
     pip install -r requirements.txt
 >Запустить скрипт:
 
-    python tasks.py
+    python reports_for_users_as_files.py
 ___
 Features
 -------------------------
