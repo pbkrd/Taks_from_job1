@@ -8,15 +8,19 @@
 
 Пример файла:
 
+    Отчёт для Deckow-Crist.
     Ervin Howell <Shanna@melissa.tv> 23.09.2020 15:25
-    Deckow-Crist
+    Всего задач: 20 
     
-    Завершённые задачи:
+    Завершённые задачи(8):
     distinctio vitae autem nihil ut molestias quo
+    voluptas quo tenetur perspiciatis explicabo natu...
+    ...
     
-    Оставшиеся задачи:
-    suscipit repellat esse quibusdam voluptatem incidu...
-    laborum aut in quam>
+    Оставшиеся задачи(12):
+    suscipit repellat esse quibusdam voluptatem inci...
+    et itaque necessitatibus maxime molestiae qui qu...
+    ...
 
 Если файл для пользователя уже существует, то существующий файл переименовать, добавив в него время составления этого старого отчёта в формате "Antonette_2020-09-23T15:25.txt" Таким образом, актуальный отчёт всегда будет без даты в названии. Старые отчёты не удаляются, а переименовываются.
 
