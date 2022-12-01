@@ -8,13 +8,13 @@
 
 Пример файла:
 
-    <Ervin Howell <Shanna@melissa.tv> 23.09.2020 15:25>
-Deckow-Crist
-Завершённые задачи:
-distinctio vitae autem nihil ut molestias quo
-Оставшиеся задачи:
-suscipit repellat esse quibusdam voluptatem incidu...
-laborum aut in quam>
+    Ervin Howell <Shanna@melissa.tv> 23.09.2020 15:25
+    Deckow-Crist
+    Завершённые задачи:
+    distinctio vitae autem nihil ut molestias quo
+    Оставшиеся задачи:
+    suscipit repellat esse quibusdam voluptatem incidu...
+    laborum aut in quam>
 
 Если файл для пользователя уже существует, то существующий файл переименовать, добавив в него время составления этого старого отчёта в формате "Antonette_2020-09-23T15:25.txt" Таким образом, актуальный отчёт всегда будет без даты в названии. Старые отчёты не удаляются, а переименовываются.
 
