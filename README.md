@@ -39,7 +39,7 @@
     pip install -r requirements.txt
 >Запустить скрипт:
 
-    python reports_for_users_as_files.py
+    python3 reports_for_users_as_files.py
 ___
 Features
 -------------------------
